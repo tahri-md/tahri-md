@@ -5,7 +5,7 @@
 
 ---
 
-## ⚡ About Me
+##  About Me
 
 I build backend systems that actually behave under pressure.
 
@@ -15,32 +15,14 @@ I focus on architecture, performance, and clean design.
 
 ---
 
-## 🧠 What I Work On
+##  What I Work On
 
-- ⚙️ Backend Systems (Spring Boot, Go)
-- 🧩 Distributed Architectures & Microservices
-- 📦 Message Brokers & Job Scheduling
-- 🔐 API Security (JWT, Rate Limiting, Circuit Breakers)
-- 🐳 DevOps & Containerization (Docker)
+-  Backend Systems (Spring Boot, Go)
+-  Distributed Architectures & Microservices
+-  Message Brokers & Job Scheduling
+-  API Security (JWT, Rate Limiting, Circuit Breakers)
+-  DevOps & Containerization (Docker)
 
----
-
-## 🚀 Featured Work
-
-### 🔹 API Gateway
-Production-style gateway with routing, rate limiting, circuit breaker & observability.
-
-### 🔹 JobPulse
-Distributed job scheduler with retries, backoff strategies & dead letter queues.
-
-### 🔹 Verity
-Blockchain-inspired verification system with Merkle trees & consensus.
-
-### 🔹 Synapse
-Message broker with consumer groups, offsets & DLQ handling.
-
-### 🔹 QuerySence
-SQL analysis platform with optimization insights & performance tracking.
 
 ---
 
