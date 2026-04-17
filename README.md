@@ -1,34 +1,43 @@
-<h1 align="center">Hi,I'm Tahri</h1>
+<h1 align="center">Hi, I'm Tahri</h1>
 <p align="center">
-  Backend & Systems Engineer • Building scalable architectures
+  Backend & Systems Engineer
+</p>
+
+<p align="center">
+  I design systems that don't fall apart under load.
 </p>
 
 ---
 
-##  About Me
+## About
 
-I build backend systems that actually behave under pressure.
+I focus on building **reliable backend systems** and understanding how things work under the hood.
 
-From API Gateways with rate limiting and circuit breakers,  
-to distributed job schedulers and blockchain-inspired systems —  
-I focus on architecture, performance, and clean design.
+Most of my work revolves around:
+- designing scalable architectures  
+- controlling system behavior (not just coding features)  
+- optimizing performance and fault tolerance  
 
----
-
-##  What I Work On
-
--  Backend Systems (Spring Boot, Go)
--  Distributed Architectures & Microservices
--  Message Brokers & Job Scheduling
--  API Security (JWT, Rate Limiting, Circuit Breakers)
--  DevOps & Containerization (Docker)
-
+I care about **clean structure, predictable systems, and real-world constraints**.
 
 ---
 
-## ⚙️ Stack
+## What I Build
+
+- API Gateways (rate limiting, circuit breakers)
+- Distributed systems & microservices
+- Job schedulers & async processing systems
+- Secure APIs (JWT, cookie-based auth)
+- System-level tools (containers, low-level projects)
+
+---
+
+## Stack
 
 ```txt
-Java • Go • PostgreSQL • Redis
-Spring Boot • Docker • Microservices
-React • Next.js • Angular
+Java • Go • TypeScript  
+Spring Boot • Gin • Node.js • React • Angular • NextJs
+
+PostgreSQL • Redis  
+
+Docker • Linux • Networking 
