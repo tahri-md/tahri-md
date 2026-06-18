@@ -1,43 +1,88 @@
-<h1 align="center">Hi, I'm Tahri</h1>
-<p align="center">
-  Backend & Systems Engineer
-</p>
+# Hi, I'm Tahri
 
-<p align="center">
-  I design systems that don't fall apart under load.
-</p>
+### Backend Engineer • Systems Builder • Security Enthusiast
+
+I enjoy building systems that remain predictable under pressure.
+
+My focus is not just writing features, but understanding how software behaves at scale: performance bottlenecks, failure modes, distributed coordination, networking, security, and system reliability.
 
 ---
 
-## About
+## What Interests Me
 
-I focus on building **reliable backend systems** and understanding how things work under the hood.
-
-Most of my work revolves around:
-- designing scalable architectures  
-- controlling system behavior (not just coding features)  
-- optimizing performance and fault tolerance  
-
-I care about **clean structure, predictable systems, and real-world constraints**.
+* Distributed Systems
+* Backend Architecture
+* Cybersecurity & Application Security
+* Performance Engineering
+* Networking & Infrastructure
+* Cloud-Native Systems
+* Operating Systems & Low-Level Concepts
 
 ---
 
 ## What I Build
 
-- API Gateways (rate limiting, circuit breakers)
-- Distributed systems & microservices
-- Job schedulers & async processing systems
-- Secure APIs (JWT, cookie-based auth)
-- System-level tools (containers, low-level projects)
+### Backend Platforms
+
+* REST APIs
+* Authentication & Authorization Systems
+* API Gateways
+* Rate Limiting & Traffic Control
+* Secure Session & JWT Architectures
+
+### Distributed Systems
+
+* Microservices
+* Event-Driven Architectures
+* Job Scheduling Systems
+* Message Queue Workflows
+* Fault-Tolerant Services
+
+### Infrastructure & Operations
+
+* Containerized Applications
+* Linux-Based Deployments
+* CI/CD Pipelines
+* Monitoring & Observability
+* Performance Optimization
 
 ---
 
-## Stack
+## Tech Stack
 
-```txt
-Java • Go • TypeScript  
-Spring Boot • Gin • Node.js • React • Angular • NextJs
+### Languages
 
-PostgreSQL • Redis  
+Java • Go • TypeScript • JavaScript
 
-Docker • Linux • Networking 
+### Backend
+
+Spring Boot • Gin • Node.js • Express
+
+### Frontend
+
+Angular • React • Next.js
+
+### Data
+
+PostgreSQL • Redis
+
+### Infrastructure
+
+Docker • Linux • Git • Networking
+
+---
+
+## Current Focus
+
+Building secure and scalable systems while deepening my understanding of:
+
+* Distributed System Design
+* API Security
+* Container Technologies
+* Cloud Architecture
+* System Performance
+* Cybersecurity
+
+---
+
+> "Good software works. Great software keeps working when everything around it doesn't."
